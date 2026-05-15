@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Landing Page — Hero Section
-![ChessMind Hero](docs/screenshots/screenshot_home.png)
+![ChessMind Hero](Screenshot/Screenshot 2026-05-15 114328.png)
 > *"Chess, Elevated by Intelligence" — The main landing page with CTA buttons and a live chessboard preview.*
 
 ### 🎮 Features Section — Game Modes & Board Themes
