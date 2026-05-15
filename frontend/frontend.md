@@ -7,11 +7,11 @@
 ## 📸 Screenshots
 
 ### 🏠 Landing Page — Hero Section
-![ChessMind Hero](Screenshot/scr.png)
+![ChessMind Hero](Screenshot/frontend/scr.png)
 > *"Chess, Elevated by Intelligence" — The main landing page with CTA buttons and a live chessboard preview.*
 
 ### 🎮 Features Section — Game Modes & Board Themes
-![ChessMind Features](Screenshot/scr1.png)
+![ChessMind Features](Screenshot/frontend/scr1.png)
 > *Three game modes (AI Opponent, Local Multiplayer, Online Multiplayer) and 7 selectable board themes.*
 
 ---
