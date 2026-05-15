@@ -193,7 +193,7 @@ docker compose up -d --build
 
 ## 👤 Author
 
-**Rohit** — [GitHub Profile](https://github.com/Aniket1288)
+**Aniket** — [GitHub Profile](https://github.com/Aniket1288)
 
 ---
 
