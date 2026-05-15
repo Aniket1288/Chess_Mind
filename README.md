@@ -186,8 +186,8 @@ docker compose up -d --build
 
 ## 📖 Detailed Docs
 
-- 📄 [Frontend Guide](./frontend.md)
-- 📄 [Backend Guide](./backend.md)
+- 📄 [Frontend Guide](.frontend/frontend.md)
+- 📄 [Backend Guide](.backend/backend.md)
 
 ---
 
